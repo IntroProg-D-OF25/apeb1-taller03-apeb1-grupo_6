@@ -1,12 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author PATO PC
- */
 public class Ejercicio2 {
+    public static void main(String[] args) {
+        double v1, v2;
+        int respuesta;
+        v1 = Math.pow(10, 2);
+        v2 = 10;
+        respuesta = (int) (v1 + v2);
+        System.out.println("respuesta = " + respuesta);
+                
+    }
+    
     
 }
