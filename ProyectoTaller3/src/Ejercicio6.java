@@ -8,7 +8,7 @@ public class Ejercicio6 {
         n4 = 9;
         n5 = 10;
         n6 = 1;
-        respuesta = (v1 + v2 / v3 == v4) && (10 > 1));
+        respuesta = ((n1 + n2 / n3 == n4) && (10 > 1));
         System.out.println("respuesta = " + respuesta);
         
     }
